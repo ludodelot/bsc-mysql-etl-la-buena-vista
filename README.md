@@ -9,7 +9,7 @@
 # La Buena Vista — Migración de Excel a MySQL (ETL + SQL)
 
 Trabajo académico del curso **Integración de Bases de Datos (TI2017.300)**,
-Licenciatura en Innovación y Tecnología (LIT), **Tecnológico de Monterrey**,
+Licenciatura en Inteligencia de Negocios (LIN), **Tecnológico de Monterrey**,
 Escuela de Negocios — Campus Culiacán (CSF), Semestre 4 (S4).
 
 Este repositorio documenta el proceso completo de migrar el control de ventas
