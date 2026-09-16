@@ -1,0 +1,18 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local env / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# MySQL Workbench local state
+*.mwb.bak
+*.sql.autosave
